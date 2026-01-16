@@ -1,0 +1,522 @@
+[
+  {
+    "post": {
+      "post_id": "p001",
+      "text": "Feeling frustrated about the quota situation... students deserve fairness. #protest",
+      "image_captions": "[\"A crowd of people holding signs in a street\"]",
+      "video_captions": "[]",
+      "timestamp": "2025-12-20T18:10:00",
+      "platform": "Facebook",
+      "surface": "Group",
+      "surface_topic": "University Students"
+    },
+    "context": {
+      "who": {
+        "user_id": "user_00000",
+        "persona": "political",
+        "post_history": {
+          "politics": 0.13,
+          "sports": 0.002,
+          "religion": 0.012,
+          "education": 0.0,
+          "business": 0.006,
+          "health": 0.004,
+          "technology": 0.166,
+          "travel": 0.338,
+          "entertainment": 0.063,
+          "family": 0.004,
+          "memes": 0.0,
+          "local_news": 0.005,
+          "career": 0.101,
+          "science": 0.0,
+          "finance": 0.049,
+          "food": 0.111,
+          "relationships": 0.001,
+          "social_issues": 0.002,
+          "other": 0.006
+        },
+        "interaction_history": {
+          "politics": 0.045,
+          "sports": 0.0,
+          "religion": 0.029,
+          "education": 0.045,
+          "business": 0.028,
+          "health": 0.082,
+          "technology": 0.002,
+          "travel": 0.015,
+          "entertainment": 0.176,
+          "family": 0.101,
+          "memes": 0.032,
+          "local_news": 0.076,
+          "career": 0.036,
+          "science": 0.069,
+          "finance": 0.039,
+          "food": 0.118,
+          "relationships": 0.072,
+          "social_issues": 0.003,
+          "other": 0.032
+        }
+      },
+      "when": {
+        "keywords": [
+          "feeling",
+          "frustrated",
+          "about",
+          "the",
+          "quota"
+        ],
+        "events": [
+          "Possible related discussion around 'feeling' trending near posting time",
+          "Possible related discussion around 'frustrated' trending near posting time"
+        ],
+        "timestamp": "2025-12-20T18:10:00"
+      },
+      "where": {
+        "platform": "Facebook",
+        "surface": "Profile",
+        "group_topic": null
+      },
+      "how": {
+        "reactions": {
+          "like": 186,
+          "love": 16,
+          "haha": 0,
+          "sad": 26,
+          "angry": 21
+        },
+        "comment_emotions": {
+          "supportive": 0.52,
+          "toxic": 0.03,
+          "neutral": 0.45
+        },
+        "engagement_note": "Synthetic engagement snapshot (replace with real extraction later)"
+      }
+    },
+    "ground_truth": {
+      "persona": "political",
+      "dominant_topics": [
+        "travel",
+        "technology",
+        "politics"
+      ],
+      "surface": "Profile",
+      "group_topic": null
+    }
+  },
+  {
+    "post": {
+      "post_id": "p002",
+      "text": "Musician Tasrif Khan has strongly demanded justice for Sharif Osman Hadi, the independent Dhaka-8 candidate who recently died after being shot. Tasrif criticized public silence in his Facebook posts, warning that injustice can affect anyone. His statements went viral, with many praising his courage and calling for a proper investigation. #TasrifKhan #SharifOsmanHadi #BangladeshNews",
+      "image_captions": "[]",
+      "video_captions": "[]",
+      "timestamp": "Thursday, January 15, 2026 at 2:44 AM",
+      "platform": "Facebook",
+      "surface": "Page · News & media website · Media/news company",
+      "surface_topic": "News & media website"
+    },
+    "context": {
+      "who": {
+        "user_id": "user_00001",
+        "persona": "technologist",
+        "post_history": {
+          "politics": 0.026,
+          "sports": 0.042,
+          "religion": 0.159,
+          "education": 0.131,
+          "business": 0.018,
+          "health": 0.038,
+          "technology": 0.061,
+          "travel": 0.283,
+          "entertainment": 0.035,
+          "family": 0.022,
+          "memes": 0.008,
+          "local_news": 0.113,
+          "career": 0.025,
+          "science": 0.007,
+          "finance": 0.001,
+          "food": 0.018,
+          "relationships": 0.003,
+          "social_issues": 0.005,
+          "other": 0.006
+        },
+        "interaction_history": {
+          "politics": 0.142,
+          "sports": 0.001,
+          "religion": 0.0,
+          "education": 0.058,
+          "business": 0.021,
+          "health": 0.107,
+          "technology": 0.019,
+          "travel": 0.063,
+          "entertainment": 0.015,
+          "family": 0.135,
+          "memes": 0.035,
+          "local_news": 0.035,
+          "career": 0.06,
+          "science": 0.031,
+          "finance": 0.128,
+          "food": 0.1,
+          "relationships": 0.045,
+          "social_issues": 0.0,
+          "other": 0.007
+        }
+      },
+      "when": {
+        "keywords": [
+          "musician",
+          "tasrif",
+          "khan",
+          "has",
+          "strongly"
+        ],
+        "events": [
+          "Possible related discussion around 'musician' trending near posting time",
+          "Possible related discussion around 'tasrif' trending near posting time"
+        ],
+        "timestamp": "Thursday, January 15, 2026 at 2:44 AM"
+      },
+      "where": {
+        "platform": "Facebook",
+        "surface": "Profile",
+        "group_topic": null
+      },
+      "how": {
+        "reactions": {
+          "like": 237,
+          "love": 36,
+          "haha": 0,
+          "sad": 35,
+          "angry": 33
+        },
+        "comment_emotions": {
+          "supportive": 0.37,
+          "toxic": 0.36,
+          "neutral": 0.27
+        },
+        "engagement_note": "Synthetic engagement snapshot (replace with real extraction later)"
+      }
+    },
+    "ground_truth": {
+      "persona": "technologist",
+      "dominant_topics": [
+        "travel",
+        "religion",
+        "education"
+      ],
+      "surface": "Profile",
+      "group_topic": null
+    }
+  },
+  {
+    "post": {
+      "post_id": "p003",
+      "text": "আমার নির্বাচনী জার্নি নিয়ে কিছুদিন আগে একটা টিভি চ্যানেল একটা প্যাকেজ বানিয়েছিলো। একজন  রাজনৈতিক নেতার লোকজন সেই চ্যানেলের হেড অফিসে ফোন করে তাদেরকে বেশ 'হেদায়াত' করলেন! রিপোর্টার তার ক্যারিয়ারের নিরাপত্তার কথা ভেবে আমাকে বিস্তারিত না বলতে অনুরোধ জানালেন। আমার কারনে তার ক্ষতি হোক, তা আমি চাই না। নির্বাচন কালে মিডিয়া চেষ্টা করলেও কতটুক স্বচ্ছ ও নিরপেক্ষ ভূমিকা পালন করতে পারবে, তা বুঝতে আর ব্যখ্যা লাগে না। ক্ষমতা যার, মিডিয়া তার!",
+      "image_captions": "[]",
+      "video_captions": "[]",
+      "timestamp": "Tuesday, November 4, 2025 at 12:10 AM",
+      "platform": "Facebook",
+      "surface": "Page · Public figure",
+      "surface_topic": "Public figure"
+    },
+    "context": {
+      "who": {
+        "user_id": "user_00002",
+        "persona": "businessperson",
+        "post_history": {
+          "politics": 0.065,
+          "sports": 0.004,
+          "religion": 0.198,
+          "education": 0.01,
+          "business": 0.014,
+          "health": 0.0,
+          "technology": 0.029,
+          "travel": 0.052,
+          "entertainment": 0.02,
+          "family": 0.022,
+          "memes": 0.111,
+          "local_news": 0.129,
+          "career": 0.1,
+          "science": 0.038,
+          "finance": 0.029,
+          "food": 0.135,
+          "relationships": 0.021,
+          "social_issues": 0.003,
+          "other": 0.021
+        },
+        "interaction_history": {
+          "politics": 0.01,
+          "sports": 0.026,
+          "religion": 0.004,
+          "education": 0.026,
+          "business": 0.081,
+          "health": 0.0,
+          "technology": 0.0,
+          "travel": 0.062,
+          "entertainment": 0.01,
+          "family": 0.196,
+          "memes": 0.004,
+          "local_news": 0.301,
+          "career": 0.0,
+          "science": 0.023,
+          "finance": 0.032,
+          "food": 0.122,
+          "relationships": 0.018,
+          "social_issues": 0.0,
+          "other": 0.086
+        }
+      },
+      "when": {
+        "keywords": [
+          "আমার",
+          "নির্বাচনী",
+          "জার্নি",
+          "নিয়ে",
+          "কিছুদিন"
+        ],
+        "events": [
+          "Possible related discussion around 'আমার' trending near posting time",
+          "Possible related discussion around 'নির্বাচনী' trending near posting time"
+        ],
+        "timestamp": "Tuesday, November 4, 2025 at 12:10 AM"
+      },
+      "where": {
+        "platform": "Facebook",
+        "surface": "Profile",
+        "group_topic": null
+      },
+      "how": {
+        "reactions": {
+          "like": 99,
+          "love": 22,
+          "haha": 32,
+          "sad": 23,
+          "angry": 22
+        },
+        "comment_emotions": {
+          "supportive": 0.13,
+          "toxic": 0.31,
+          "neutral": 0.56
+        },
+        "engagement_note": "Synthetic engagement snapshot (replace with real extraction later)"
+      }
+    },
+    "ground_truth": {
+      "persona": "businessperson",
+      "dominant_topics": [
+        "religion",
+        "food",
+        "local_news"
+      ],
+      "surface": "Profile",
+      "group_topic": null
+    }
+  },
+  {
+    "post": {
+      "post_id": "p004",
+      "text": "Osman Hadi - ওসমান হাদি  তুমি অনেক সাহসী। কিন্তু যতই সাহসী হও না কেন, নীলা ইসরাফিলের মতো দুই টাকার প*তি*তাদের সঙ্গে পারবে না। এরা তোমার চরিত্র এত নিচে নামিয়ে দেবে যে তোমার ক্যারিয়ারই শেষ হয়ে যাবে। অতএব, এসব প*তি*তা থেকে দূরে থাকো। নিজের মতো চল; মানুষ তোমাকে ভালোবাসে! National Citizen Party - NCP প্রতি দাবি এই নীলাকে বহিষ্কার করুন না হলে আপনাদের জনগন বহিষ্কার করবে একটি সূত্রে জানা গেছে, হাদির জনপ্রিয়তা দেখে এই প*তি*তাকে মোটা অঙ্কের টাকায় ভাড়া করেছে চান্দা আব্বাস, হাদির চরিত্রহনন করে তার জনপ্রিয়তা কমানোর উদ্দেশ্যে! #hadi #NCPBangladesh",
+      "image_captions": "[]",
+      "video_captions": "[]",
+      "timestamp": "Monday, November 24, 2025 at 9:22 AM",
+      "platform": "Facebook",
+      "surface": "Profile · Digital creator",
+      "surface_topic": "বিশ্ব রাজনীতি নিউজ"
+    },
+    "context": {
+      "who": {
+        "user_id": "user_00003",
+        "persona": "athlete",
+        "post_history": {
+          "politics": 0.016,
+          "sports": 0.023,
+          "religion": 0.226,
+          "education": 0.118,
+          "business": 0.001,
+          "health": 0.057,
+          "technology": 0.003,
+          "travel": 0.009,
+          "entertainment": 0.134,
+          "family": 0.021,
+          "memes": 0.054,
+          "local_news": 0.009,
+          "career": 0.001,
+          "science": 0.059,
+          "finance": 0.175,
+          "food": 0.068,
+          "relationships": 0.006,
+          "social_issues": 0.015,
+          "other": 0.007
+        },
+        "interaction_history": {
+          "politics": 0.005,
+          "sports": 0.114,
+          "religion": 0.133,
+          "education": 0.167,
+          "business": 0.08,
+          "health": 0.027,
+          "technology": 0.021,
+          "travel": 0.01,
+          "entertainment": 0.164,
+          "family": 0.0,
+          "memes": 0.074,
+          "local_news": 0.03,
+          "career": 0.083,
+          "science": 0.0,
+          "finance": 0.005,
+          "food": 0.084,
+          "relationships": 0.001,
+          "social_issues": 0.001,
+          "other": 0.0
+        }
+      },
+      "when": {
+        "keywords": [
+          "osman",
+          "hadi",
+          "-",
+          "ওসমান",
+          "হাদি"
+        ],
+        "events": [
+          "Possible related discussion around 'osman' trending near posting time",
+          "Possible related discussion around 'hadi' trending near posting time"
+        ],
+        "timestamp": "Monday, November 24, 2025 at 9:22 AM"
+      },
+      "where": {
+        "platform": "Facebook",
+        "surface": "Profile",
+        "group_topic": null
+      },
+      "how": {
+        "reactions": {
+          "like": 331,
+          "love": 29,
+          "haha": 0,
+          "sad": 24,
+          "angry": 37
+        },
+        "comment_emotions": {
+          "supportive": 0.31,
+          "toxic": 0.27,
+          "neutral": 0.42
+        },
+        "engagement_note": "Synthetic engagement snapshot (replace with real extraction later)"
+      }
+    },
+    "ground_truth": {
+      "persona": "athlete",
+      "dominant_topics": [
+        "religion",
+        "finance",
+        "entertainment"
+      ],
+      "surface": "Profile",
+      "group_topic": null
+    }
+  },
+  {
+    "post": {
+      "post_id": "p005",
+      "text": "কখনো কোনো রাজনৈতিক নেতা কে ভোট দিতে না পারার আফসোস হবে, এমন ভাবিনি। \n                আমার ভোটের কেন্দ্র পরিবর্তন করার চিন্তা টুকুও করেছিলাম, ছোট ভাই Osman Hadi - ওসমান হাদি কে ভোট দেওয়ার জন্য।  অসুস্থতার কারণে সময় চলে গিয়েছিলো বিধায়, এই নির্বাচনে পারছি নাহ। \n                পরের নির্বাচনে (যদি আল্লাহ বাচায় রাখেন আর নির্বাচন হয়) তবে আমার কেন্দ্র হবে-- \n                ঢাকা -৮ \n                আপাতত এবারের জন্য , আমার অনেক শুভকামনা আর দোয়া রইলো তোমার সাথে। \n                Bangladesh needs you. \n                You represent the new generation of political leaders who have shown integrity and resilience, who is straightforward in speech and clear in vision. \n                বাংলাদেশের সংসদে তোমার মতো একজন এমপি দরকার। \n                অপেক্ষায় রইলাম!!  \n                Inshallah we shall see you in action ! \n                Best of luck !!",
+      "image_captions": "[]",
+      "video_captions": "[]",
+      "timestamp": "Monday, November 24, 2025 at 9:22 AM",
+      "platform": "Facebook",
+      "surface": "Profile · Digital creator",
+      "surface_topic": "বিশ্ব রাজনীতি নিউজ "
+    },
+    "context": {
+      "who": {
+        "user_id": "user_00004",
+        "persona": "political",
+        "post_history": {
+          "politics": 0.003,
+          "sports": 0.016,
+          "religion": 0.058,
+          "education": 0.273,
+          "business": 0.017,
+          "health": 0.224,
+          "technology": 0.016,
+          "travel": 0.011,
+          "entertainment": 0.031,
+          "family": 0.02,
+          "memes": 0.026,
+          "local_news": 0.025,
+          "career": 0.011,
+          "science": 0.02,
+          "finance": 0.026,
+          "food": 0.002,
+          "relationships": 0.001,
+          "social_issues": 0.138,
+          "other": 0.08
+        },
+        "interaction_history": {
+          "politics": 0.02,
+          "sports": 0.153,
+          "religion": 0.002,
+          "education": 0.019,
+          "business": 0.04,
+          "health": 0.052,
+          "technology": 0.119,
+          "travel": 0.192,
+          "entertainment": 0.072,
+          "family": 0.025,
+          "memes": 0.0,
+          "local_news": 0.01,
+          "career": 0.102,
+          "science": 0.02,
+          "finance": 0.0,
+          "food": 0.012,
+          "relationships": 0.008,
+          "social_issues": 0.004,
+          "other": 0.15
+        }
+      },
+      "when": {
+        "keywords": [
+          "কখনো",
+          "কোনো",
+          "রাজনৈতিক",
+          "নেতা",
+          "কে"
+        ],
+        "events": [
+          "Possible related discussion around 'কখনো' trending near posting time",
+          "Possible related discussion around 'কোনো' trending near posting time"
+        ],
+        "timestamp": "Monday, November 24, 2025 at 9:22 AM"
+      },
+      "where": {
+        "platform": "Facebook",
+        "surface": "Profile",
+        "group_topic": null
+      },
+      "how": {
+        "reactions": {
+          "like": 407,
+          "love": 40,
+          "haha": 0,
+          "sad": 33,
+          "angry": 66
+        },
+        "comment_emotions": {
+          "supportive": 0.63,
+          "toxic": 0.3,
+          "neutral": 0.07
+        },
+        "engagement_note": "Synthetic engagement snapshot (replace with real extraction later)"
+      }
+    },
+    "ground_truth": {
+      "persona": "political",
+      "dominant_topics": [
+        "education",
+        "health",
+        "social_issues"
+      ],
+      "surface": "Profile",
+      "group_topic": null
+    }
+  }
+]

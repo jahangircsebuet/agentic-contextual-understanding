@@ -10,9 +10,9 @@ from crewai import Agent
 from prompts import PLANNER_PROMPT, VERIFIER_PROMPT, VERIFIER_PROMPT_ICWSM, SYNTHESIZER_PROMPT_ICWSM
 
 # Define different models for different 'cognitive' costs
-smart_model = LLM(model="gpt-4o", temperature=0.2)
-fast_model = LLM(model="gpt-4o-mini", temperature=0.5)
-reasoning_model = LLM(model="anthropic/claude-3-7-sonnet", temperature=0) # Great for WHO
+# smart_model = LLM(model="gpt-4o", temperature=0.2)
+# fast_model = LLM(model="gpt-4o-mini", temperature=0.5)
+# reasoning_model = LLM(model="anthropic/claude-3-7-sonnet", temperature=0) # Great for WHO
 llama_model = LLM(model="meta-llama/Meta-Llama-3.1-70B-Instruct") #larger model for complex reasoning
 smaller_llama_model = LLM(model="meta-llama/Meta-Llama-3.1-8B-Instruct") # smaller model for complex reasoning
 mixtral_model = LLM(model="mistralai/Mixtral-8x7B-Instruct-v0.1", temperature=0.3)
@@ -21,8 +21,8 @@ mixtral_model = LLM(model="mistralai/Mixtral-8x7B-Instruct-v0.1", temperature=0.
 # ✅ Strong instruction tuning
 # ✅ Good for noisy social media text
 # ⚠️ Less strong global reasoning
-google_model = LLM(model="google/gemma-2-9b-it") #Multilingual / social text friendly
-reasoning_model = mixtral_model
+# google_model = LLM(model="google/gemma-2-9b-it") #Multilingual / social text friendly
+reasoning_model = smaller_llama_model
 
 
 # Suggested hybrid setup (best practice) ------> Try later

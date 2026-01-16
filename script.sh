@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=2 python /home/malam10/projects/agentic-contextual-understanding/run.py

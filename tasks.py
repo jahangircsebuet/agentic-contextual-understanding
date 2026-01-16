@@ -30,7 +30,7 @@ def who_task(agent, user_context):
     return Task(
         description=f"""
         Generate the WHO summary.
-        Infer user background and behavioral context from history:
+        Analyze the provided user demographic, post and history to determine their persona:
 
         Data:
         {user_context}
@@ -40,8 +40,7 @@ def who_task(agent, user_context):
         primary entities (people, places, events etc.) mentioned?
     """,
     expected_output="""
-        A concise summary (2-3 sentences) of the post's content and a 
-        bulleted list of key themes.
+        A concise summary (2-3 sentences): A summary of the user's likely persona with supporting evidence..
     """,
     agent=agent
 )
@@ -121,6 +120,22 @@ def planning_task(agent, post):
         agent=agent,
         expected_output="List of required context components"
     )
+
+
+def verifier_task(agent, verification_input):
+    return Task(
+        description=f"""
+            Audit the generated components and evidence packets.
+
+            INPUT (JSON):
+            {verification_input}
+
+            Return ONLY the verification JSON described in your system prompt.
+        """,
+        agent=agent,
+        expected_output="JSON with flags, component_confidence, revised_components, global_notes"
+    )
+
 
 # Synthesis Module Task
 def synthesis_task(agent, context_bundle):
